@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">test</string>
+    <string name="panjang">Panjang</string>
+    <string name="_0" tools:ignore="DuplicateDefinition">0</string>
+    <string name="lebar">Lebar</string>
+    <string name="luas_persegi">Luas Persegi</string>
+    <string name="keliling_persegi">Keliling Persegi</string>
+    <string name="luas_segitiga">Luas Segitiga</string>
+    <string name="keliling_segitiga">Keliling Segitiga</string>
+    <string name="luas_lingkaran">Luas Lingkaran</string>
+    <string name="keliling_lingkaran">Keliling Lingkaran</string>
+    <string name="hasil">Hasil</string>
+</resources>
